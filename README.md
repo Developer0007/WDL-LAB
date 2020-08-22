@@ -20,9 +20,9 @@ To view individual pages click on the respective Link.
 ## Note:
 
 To know Individual Contribution of the project you can visit the branches via below links :
-- Branch : <a https://github.com/Developer0007/WDL-LAB/tree/a-jamadar">A JAMADAR</a>
-- Branch : <a https://github.com/Developer0007/WDL-LAB/tree/anas">ANAS</a>
-- Branch : <a https://github.com/Developer0007/WDL-LAB/tree/safwan">SAFWAN</a>
+- Branch : <a href="https://github.com/Developer0007/WDL-LAB/tree/a-jamadar">A JAMADAR</a>
+- Branch : <a href="https://github.com/Developer0007/WDL-LAB/tree/anas">ANAS</a>
+- Branch : <a href="https://github.com/Developer0007/WDL-LAB/tree/safwan">SAFWAN</a>
 
 
 ## CONTRIBUTORS:
