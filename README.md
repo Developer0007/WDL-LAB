@@ -23,6 +23,7 @@ To know Individual Contribution of the project you can visit the branches via be
 - Branch : <a href="https://github.com/Developer0007/WDL-LAB/tree/a-jamadar">A JAMADAR</a>
 - Branch : <a href="https://github.com/Developer0007/WDL-LAB/tree/anas">ANAS</a>
 - Branch : <a href="https://github.com/Developer0007/WDL-LAB/tree/safwan">SAFWAN</a>
+- Branch : <a href="https://github.com/Developer0007/WDL-LAB/tree/rehbar">REHBAR</a>
 
 
 ## CONTRIBUTORS:
@@ -35,3 +36,6 @@ To know Individual Contribution of the project you can visit the branches via be
 
 - **ANAS SAYED**<br>
 [-] GitHub : https://github.com/anas4488
+
+- **REHBAR AZAM**<br>
+[-] GitHub : https://github.com/rahbareazam1999
