@@ -1,0 +1,78 @@
+.box {
+    display: absolute;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+
+  .container{
+      text-align: center;
+      margin-bottom: 45px;
+  }
+
+  img.image {
+    width: 60%;
+    border-radius: 50%;
+  }
+
+input[type=text], input[type=password],input[type=number],input[type=email],textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 0.5rem;
+  }
+
+button {
+    background-color: #348ceb	;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 0.5rem;
+  }
+.dangerbutton{
+    background-color: red;
+}
+
+#footer{
+    display:flex;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 30px;
+    width: 100%;
+    justify-content:center;
+    align-items:center;
+    color: aliceblue;
+  }
+  .column {
+    float: left;
+    width: 25%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 0 8px;
+    border-radius: 25px;
+  }
+  .containerbox {
+    padding: 15px 16px;
+    text-align: center;
+  }  
+
+  html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
