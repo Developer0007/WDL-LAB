@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js" integrity="sha512-UdIMMlVx0HEynClOIFSyOrPggomfhBKJE28LKl8yR3ghkgugPnG6iLfRfHwushZl1MOPSY6TsuBDGPK2X4zYKg==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/additional-methods.min.js" integrity="sha512-6Uv+497AWTmj/6V14BsQioPrm3kgwmK9HYIyWP+vClykX52b0zrDGP7lajZoIY1nNlX4oQuh7zsGjmF7D0VZYA==" crossorigin="anonymous"></script>
+ 
+
+</head>
+<body>
+    <div class="box">
+        <form id="contact" action="" method="POST">
+          <div style="text-align: center;">
+            <h1>Contact Us</h1>
+            <p>Please fill below form or mail on <a href = "mailto:support@onlinefood.com">support@onlinefood.com</a>
+            </p>
+          </div>
+      
+          <label for="fname">First Name</label>
+          <input type="text"  name="firstname"  placeholder="First name" >
+          <br>
+      
+          <label for="lname">Last Name</label>
+          <input type="text"  name="lastname" placeholder="Last name" >
+          <br>
+          
+          <label for="email">Email</label>
+          <input type="email"  name="email"  placeholder="Email" >
+          <br>
+
+          <label for="subject">Subject</label>
+          <textarea name="subject" placeholder="Write something.." ></textarea>
+          <br>
+      
+          <button type="submit" id="con_btn">Submit</button>
+      
+        </form>
+      </div>
+      <footer id="footer">
+        <small>&copy; Copyright 2020, Online Food</small> 
+     </footer>
+     <script src="app.js"></script>
+
+</body>
+</html>
