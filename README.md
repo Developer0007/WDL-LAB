@@ -39,7 +39,7 @@ To view individual pages click on the respective Link.
 - <a href="https://developer0007.github.io/WDL-LAB/EXP-4/A%20JAMADAR/JQuery/contact.html">ContactUs - Page</a>
 
 ### > Experiment 5 :
-- <a href="https://github.com/Developer0007/WDL-LAB/tree/a-jamadar/EXP-5/AJAMADAR">Login - Page</a>
+- <a href="https://github.com/Developer0007/WDL-LAB/tree/a-jamadar/EXP-5/AJAMADAR">Sample Php Page - A JAMADAR</a>
 
 ## Note:
 
